@@ -1,0 +1,14 @@
+.input {
+    display: block;
+    width: 100%;
+    padding: 0 16px;
+    height: 44px;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    margin: 20px 0;
+    background: rgb(255, 255, 255, .5);
+    border-radius: 6px;
+     
+}
